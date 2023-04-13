@@ -8,8 +8,9 @@ A FrontEnd Developer
 📫 How to reach me mojtabakeshavarzi@outlook.com
 
 Connect with me:
-
-[![twitter](twitter.jpg)](twitter.com/mojtaba62339516) https://www.facebook.com/profile.php?id=100025758308477 https://www.linkedin.com/in/mojtaba-keshavarzi-561460195/
+ 
+[![twitter](https://user-images.githubusercontent.com/77697725/231740420-d881393a-e057-4fff-a386-11ac6235e150.svg)
+](twitter.com/mojtaba62339516) https://www.facebook.com/profile.php?id=100025758308477 https://www.linkedin.com/in/mojtaba-keshavarzi-561460195/
 
 Languages and Tools:
 git html5 css3 bootstrap javascript react
