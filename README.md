@@ -18,7 +18,9 @@ Connect with me:
 
 Languages and Tools:
 
-![](https://user-images.githubusercontent.com/77697725/231744712-c2c8c267-1751-406f-954d-10f315d43455.png)
-[![2](https://user-images.githubusercontent.com/77697725/231744902-67e3c65a-3791-4ac8-a21c-2c870d2520e4.png)]
-[![1](https://user-images.githubusercontent.com/77697725/231745136-28a6f18c-8f94-4c63-8a33-fb7026a07148.png)]
-git bootstrap react
+![html](https://user-images.githubusercontent.com/77697725/231744712-c2c8c267-1751-406f-954d-10f315d43455.png)
+![css](https://user-images.githubusercontent.com/77697725/231744902-67e3c65a-3791-4ac8-a21c-2c870d2520e4.png)
+![js](https://user-images.githubusercontent.com/77697725/231745136-28a6f18c-8f94-4c63-8a33-fb7026a07148.png)
+![git](https://user-images.githubusercontent.com/77697725/231745690-184f55dd-48f0-4ba1-8628-872069c24082.png)
+![bootstrap](https://user-images.githubusercontent.com/77697725/231745752-3c54df4c-6a61-48fb-84c9-fad0313d482d.png)
+![react](https://user-images.githubusercontent.com/77697725/231745905-0742560d-b784-4ea6-ab78-ea2d49024192.png)
